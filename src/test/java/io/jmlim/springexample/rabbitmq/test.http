@@ -1,0 +1,11 @@
+
+### GET Send
+GET http://localhost:8080/send
+Content-Type: application/json
+
+{
+  "notificationType": "type1",
+  "msg": "임정묵 테스트 껄껄"
+}
+
+###
